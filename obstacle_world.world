@@ -1,0 +1,6 @@
+gazebo world:
+
+- floor
+- box obstacle
+- cylinder obstacle
+- robotic arm
